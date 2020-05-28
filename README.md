@@ -1,5 +1,4 @@
-# Omas
-## Open MEI Addressability Service
+# EMA for MEI (was Omas - Open MEI Addressability Service)
 
 This web service implements the Music Addressability API.
 
